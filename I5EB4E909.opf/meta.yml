@@ -1,0 +1,36 @@
+id: I5EB4E909
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:25:32.322083'
+last_modified: '2022-06-18T22:25:32.322096'
+parser: null
+source_metadata:
+  title: Bodhicaryāvatāra of Śāntideva (Old Gong dkar block print), colophon excerpt
+  author: zhi ba lha/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2017-10-18); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/1471
+  bases:
+    8aee:
+      title: Bodhicaryāvatāra of Śāntideva (Old Gong dkar block print), colophon excerpt
+      order: 1
+      base_file: 8aee.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
